@@ -1,0 +1,27 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-color: azure;
+}
+
+.main-heading {
+    text-align: center;
+}
+
+.section-heading {
+    color: red;
+}
+
+.step-heading {
+    color: orange;
+}
+
+ul {
+    font-size: 18px;
+}
+
+p, li {
+    font-size: 18px;
+}
